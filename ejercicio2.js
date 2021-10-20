@@ -18,3 +18,11 @@ if (suma > a) {
 }else if (suma > b) {
     console.log("la suma es mayor a la constante B")
 }
+
+//par e impar
+
+const c = 30
+
+if (c % 2 == 0) {
+    console.log(c )
+}
